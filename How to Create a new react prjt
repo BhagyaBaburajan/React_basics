@@ -1,0 +1,7 @@
+I'm using visual studio Code for coding react.
+First you need To test that you have Node.js and npm correctly installed on your machine, you can type node --version and npm --version in a terminal or command prompt.
+Then we can create the prjt using the command
+
+  npx create-react-app prjt_name
+
+prjt_name-you can add the name of the react project here 
